@@ -5,7 +5,7 @@ A web API that can manage "to-do" items stored in a database made using [ASP.Net
 ## API Endpoints
 
 |API   |Description   |Request Body   |Response Body 
-|---|---|---|---|---|
+|---|---|---|---|
 |GET /api/TodoItems|Get all Todo Items  | none  |Array of todo items|
 |GET /api/TodoItems/{id}|Get an item by ID   |none|To-do item   
 |POST /api/TodoItems |Add a new Item   |To do item |To-do item
