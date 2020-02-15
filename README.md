@@ -14,8 +14,6 @@ A web API that can manage "to-do" items stored in a database made using [ASP.Net
 
 ## Running the Project
 
-# Running the project
-
 Following command can be used to run the project
 ```sh
 dotnet run
